@@ -7,9 +7,9 @@
   "license": "MIT",
   "repo_url": "https://github.com/samie888/poker_run1",
   "repo_commit": "",
-  "artifact_sha256": "3a716f1149831280271b28b82322bc872a54d62c04926a341a8f885ae4fb1885",
+  "artifact_sha256": "23d528b0c7c65e77a4d498384ef91d7a8ec1efc9446b52cee2c342eed134d0d6",
   "artifact_basename": "current.joblib",
-  "implementation_sha256": "63b01128acf828a6076d4ca2954f074d3d484f4d4e150c96ea48b3fcf3f380a6",
+  "implementation_sha256": "7bf01e4d4dc9ba9558b03f2e5b6e9b878baaa5441369fde1c7849ac33e8f00ff",
   "implementation_files": [
     "neurons/miner.py",
     "poker44_ml/inference.py",
